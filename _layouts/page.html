@@ -4,11 +4,25 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </div> <!-- column -->
+      </div> <!-- row -->
+    </div> <!-- container -->
   </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
+  
+  <section id="main">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          
+          {{ content }}
+          
+        </div> <!-- column -->
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </section> <!-- id="main" -->
 
 </article>

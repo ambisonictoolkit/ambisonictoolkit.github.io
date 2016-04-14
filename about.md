@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat sem porttitor metus tempus cursus. Cras elementum turpis vel dui eleifend ullamcorper. Integer quis rhoncus ligula, et volutpat enim. In nisl augue, interdum vitae nisl sit amet, luctus pretium nisl. Curabitur dapibus luctus neque vel pharetra. Cras ullamcorper sit amet diam eu hendrerit. Pellentesque lobortis imperdiet arcu, eu pharetra lectus finibus eu. Vestibulum a sem vitae nulla tempus elementum vel non lectus. Praesent dignissim nec erat nec congue. Aenean lorem ipsum, auctor ut nulla et, rhoncus pellentesque nulla. Vestibulum ac pharetra ante, id pretium elit. Aenean imperdiet semper lobortis. Integer nunc metus, consequat eu tempus vel, dignissim a ligula. Nullam facilisis malesuada mi, vel feugiat leo feugiat ac. Vivamus ac tempus elit, eu sagittis dui.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Cras vitae magna sed nulla euismod venenatis eu euismod odio. Donec dapibus et augue id euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ultricies nec dui sed vestibulum. Duis at est blandit, laoreet enim tincidunt, gravida sem. Aenean id eros feugiat, varius nisi vel, dignissim diam. Vivamus dapibus urna pretium, tempor nunc et, tempus ligula. Suspendisse in purus diam. Pellentesque et molestie nibh. Integer rutrum elit nec fermentum pretium. Praesent a leo ac libero imperdiet consequat. Etiam cursus sollicitudin turpis eget molestie. Morbi nisl erat, placerat in tempor et, aliquam quis turpis. Integer tellus velit, ultricies id velit vitae, pharetra varius felis.

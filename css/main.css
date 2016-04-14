@@ -1,0 +1,6 @@
+body {
+    padding-top: 110px;
+    /*  Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. 
+        navbar is 50 px, the rest is to add some additional space.
+    */
+}
