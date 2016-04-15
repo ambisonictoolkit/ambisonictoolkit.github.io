@@ -4,3 +4,13 @@ body {
         navbar is 50 px, the rest is to add some additional space.
     */
 }
+
+/* Ensuring columns with same height */
+
+@media (min-width: 750px) {
+    .equal, .equal > div[class*='col-'] {  
+        display: -webkit-flex;
+        display: flex;
+        flex:1 1 auto;
+    }
+}
