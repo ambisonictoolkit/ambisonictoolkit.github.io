@@ -4,4 +4,4 @@ title: ATK for SuperCollider
 permalink: /documentation/supercollider/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<iframe  width="800" height="500" scrolling="auto" src="http://www.ambisonictoolkit.net/Help/Guides/Intro-to-the-ATK.html">http://www.ambisonictoolkit.net/Help/Guides/Intro-to-the-ATK.html</iframe>
