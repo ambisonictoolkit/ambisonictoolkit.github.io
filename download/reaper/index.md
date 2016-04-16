@@ -59,11 +59,13 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
   A set of complementary example sound files for trying out the plugins can be <a href="/download/recordings">downloaded here</a>.
 </div>
  
+&nbsp;
 
+<h3 class="page-header">License</h3>
 
+ATK for Reaper is free software, and is published under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU LGPL</a> free software license.
 
-
-<p class="small">ATK for Reaper is free software, and is published under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU LGPL</a> free software license. The development of ATK for Reaper is supported by <a href="http://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.</p>
+The development of ATK for Reaper is supported by <a href="http://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.
 
 
 

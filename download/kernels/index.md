@@ -1,26 +1,53 @@
 ---
 layout: page
-title: Download Kernels
+title: Kernels
 permalink: /download/kernels/
 ---
 
-For full featured encoding and decoding, ATK kernels are required.
+<p class="lead">A set of impulse response files used for convolution-based encoders and decoders.</P>
 
-## Installing kernels for SuperCollider
+<div class="alert alert-success">
+  
+  <h2>Using Kernels with Reaper</h2>
 
-Install the ATK as above, then download the kernels from here.
+  <p>The kernels are already included as part of the <a href="/download/reaper/">ATK for Reaper</a> install, and there is no need to download and install the kernels seperately.</p>
 
-Launch SuperCollider3 and run the following code:
+</div>
 
+&nbsp;
+
+<div class="alert alert-info">
+
+<h2>Using Kernels with SuperCollider</h2>
+
+<p>
+  <a href="https://github.com/ambisonictoolkit/atk-kernels/releases/latest" class="btn btn-success">Download Kernels</a>
+</p>
+
+<p>&nbsp;</p>
+
+
+<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. Launch SuperCollider3, and run the following code:</p>
+
+<p>&nbsp;</p>
+  
+<pre>
 ATK Kernel Installation
 (
-// Create ATK support directory
-// Place unzipped kernels in the directory opened  
-
-Atk.createUserSupportDir;
-Atk.openUserSupportDir;
+  // Create ATK support directory
+  // Place unzipped kernels in the directory opened  
+        
+  Atk.createUserSupportDir;
+  Atk.openUserSupportDir;
 )
+</pre>
 
-If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded kernels here.
+<p>&nbsp;</p>
 
-## Installing kernels for Reaper
+<p>If ATK for SuperCollider has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded kernels here.</p>
+
+</div>
+
+
+
+
