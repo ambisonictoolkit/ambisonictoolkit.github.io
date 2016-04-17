@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Kernels
+title: Kernels<br/><span class="small">A set of impulse response files used for convolution-based encoders and decoders.</span>
 permalink: /download/kernels/
 ---
 
-<p class="lead">A set of impulse response files used for convolution-based encoders and decoders.</P>
+<p>&nbsp;</p>
+
+<p class="text-center">
+  <a href="https://github.com/ambisonictoolkit/atk-kernels/releases/latest" class="btn btn-success btn-lg">Download Kernels</a>
+</p>
+
+<p>&nbsp;</p>
 
 <div class="alert alert-success">
   
@@ -20,16 +26,7 @@ permalink: /download/kernels/
 
 <h2>Using Kernels with SuperCollider</h2>
 
-<p>
-  <a href="https://github.com/ambisonictoolkit/atk-kernels/releases/latest" class="btn btn-success">Download Kernels</a>
-</p>
-
-<p>&nbsp;</p>
-
-
 <p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. Launch SuperCollider3, and run the following code:</p>
-
-<p>&nbsp;</p>
   
 <pre>
 ATK Kernel Installation

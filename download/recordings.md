@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Example Sound Files
+title: Example Sound Files<br/><span class="lead">Ambisonic Toolkit optionally includes a number of 30 second extracts from published and unpublished recordings.</span>
+
 permalink: /download/recordings/
 ---
 
-<p class="lead">Ambisonic Toolkit optionally includes a number of 30 second extracts from published and unpublished recordings.</p>
+&nbsp;
 
 <p class="text-center">
-  <a href="https://github.com/ambisonictoolkit/atk-recordings/releases/latest" class="btn btn-success">Download Recordings</a>
+  <a href="https://github.com/ambisonictoolkit/atk-recordings/releases/latest" class="btn btn-success btn-lg">Download Example Sound Files</a>
 </p>
-
 
 &nbsp;
 
@@ -52,11 +52,11 @@ permalink: /download/recordings/
 
 
 <h2 class="page-header">List of recordings<br/>
-  <span class="small">Copyright remains with the cited authors and owners.</span>
+  <span class="small">Copyright remains with the cited authors and owners</span>
 </h2>
 
 
-#### Ambisonic A-format recordings:
+#### Ambisonic A-format recordings
 
 David Cross, "Tenor saxophone improvisations," [unpublished recording]
 
@@ -64,7 +64,7 @@ Niall Thomas, "Rob Mackay: flute improvisations," [unpublished recording]
 
 ---
 
-#### Ambisonic B-format recordings:
+#### Ambisonic B-format recordings
 
 Joseph Anderson, "Nearfield source," [unpublished recording]
 
