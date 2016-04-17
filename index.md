@@ -5,8 +5,45 @@ title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel
 
 <p class="lead">The Ambisonic Toolkit (ATK) brings together a number of classic and novel tools for the artist working with <a href="https://en.wikipedia.org/wiki/Ambisonics" target="_blank">Ambisonic</a> surround sound. The toolset in intended to be both ergonomic and comprehensive, framed so that the user is enabled to ‘think Ambisonic’.</p>
 
-<p class="lead">ATK addresses the holistic problem of creatively controlling a complete soundfield, facilitating spatial composition beyond simple placement of sounds in a sound-scene. The artist is empowered to address the impression and imaging of a soundfield &ndash; taking advantage of the native soundfield-kernel paradigm the Ambisonic technique presents.</p>
+<img src="/assets/images/index_page/plugins.png" alt="alt text" title="The Ambisonic Toolkit" class="img-responsive center-block" style="width: 100%; max-width: 712px; padding-top: 2em; padding-bottom: 1em" />
 
-<p class="lead">The real power in working with <a href="https://en.wikipedia.org/wiki/Ambisonics" target="_blank">Ambisonic</a> over other multichannel surround sound techniques is that rather than being restricted to a sound-scene based paradigm (where the artist is presented with tools designed to build up a ‘sound scene’) Ambisonics supports a soundfield-kernel model. Here we construct a soundfield in the abstract, and can then shape it as desired. The result may be shaped into a ‘sound scene’, or perceived this way &ndash; but a soundfield-kernel approach gives much greater flexibility, and directly supports the realisation of more abstract outcomes. We regard this model as idiomatic for Ambisonics.</p>
+<p class="lead">The Ambisonic Toolkit addresses the holistic problem of creatively controlling a complete soundfield, facilitating spatial composition beyond simple placement of sounds in a sound-scene. The artist is empowered to address the impression and imaging of a soundfield &ndash; taking advantage of the native soundfield-kernel paradigm the Ambisonic technique presents.</p>
 
-<p class="lead">Along with powerful soundfield transforms &ndash; the spatial filtering tools enabling soundfield-kernel reshaping &ndash; the ATK provides a comprehensive set of Ambisonic encoders (including pseudo-inverse) and decoders (<a href="http://en.wikipedia.org/wiki/5.1" target="_blank">5.1</a>, <a href="http://en.wikipedia.org/wiki/Binaural_recording" target="_blank">binaural</a>, <a href="http://en.wikipedia.org/wiki/UHJ_format" target="_blank">UHJ</a>, full-3D) allowing users to thoroughly leverage the power of the Ambisonic technique.</p>  
+
+<div class="row equal">
+  <div class="col-sm-6">
+    <div class="well">
+      <h2>ATK for Reaper</h2>
+      <p>
+        A set of JSFX plugins for spatial composition, sound design and virtual reality content development in the <a href="http://reaper.fm">Reaper</a> Digital Audio Workstation (DAW).
+      </p>
+      <p>Reaper and these plugins can be used with Mac, Windows and Linux (using Vine).
+      </p>
+      <p>&nbsp;</p>
+      <p class="text-center">
+        <a href="/documentation/reaper/" class="btn btn-info">Learn More</a>
+      </p>
+      <p class="text-center">
+        <a href="/download/reaper/" class="btn btn-success">Download</a>
+      </p>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="well">
+      <h2>ATK for SuperCollider</h2>
+      <p>
+        Powerful ambisonic processing in <a href="http://supercollider.github.io/" target="_blank">SuperCollider</a>, a programming language for real time audio synthesis and algorithmic composition.
+      </p>
+      <p>
+        ATK can be used with SuperCollider on the Max and Linux platforms.
+      </p>
+      <p>&nbsp;</p>
+      <p class="text-center">
+        <a href="/documentation/supercollider/" class="btn btn-info">Learn More</a>
+      </p>
+      <p class="text-center">
+        <a href="/download/supercollider/" class="btn btn-success">Download</a>
+      </p>
+    </div>
+  </div>
+</div>
