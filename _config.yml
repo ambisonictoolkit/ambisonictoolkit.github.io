@@ -17,3 +17,6 @@ github_username:  ambisonictoolkit
 
 # Build settings
 markdown: kramdown
+
+# News settings
+excerpt_separator: <!--more-->

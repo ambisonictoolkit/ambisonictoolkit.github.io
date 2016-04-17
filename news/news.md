@@ -5,16 +5,25 @@ permalink: /news/
 ---
 
 
-<ul class="post-list">
-  {% for post in site.posts limit:3 %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+{% for post in site.posts limit:3 %}
 
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+<h2 class="page-header">
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br/>
+  <small>
+    Posted <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+    {% if post.author %}
+      by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+    {% endif %}
+  </small>
+</h2>
+
+{{ post.content }}
+
+<hr/>
+
+<div class="col-xs-12" style="height:5em;"></div>
+
+{% endfor %}
         
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p class="text-center"><a href="/news/archive/">View the full archive</a> | Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
