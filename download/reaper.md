@@ -61,7 +61,11 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
  
 &nbsp;
 
-<h3 class="page-header">License</h3>
+### Source code
+
+[Fork ATK for Reaper at GitHub.](https://github.com/ambisonictoolkit/atk-reaper)
+
+### License
 
 ATK for Reaper is free software, and is published under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU LGPL</a> free software license.
 
