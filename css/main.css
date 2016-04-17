@@ -21,3 +21,10 @@ body {
     border-width: 1px;
     border-color: #EEEEEE;
 }
+
+.itunes-badge{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+}

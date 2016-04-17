@@ -4,7 +4,7 @@ title: ATK for SuperCollider
 permalink: /documentation/supercollider/
 ---
 
-<p class="lead">Once ATK for SpuerCollider is installed, documentation is available natively within SuperCollider.</p>
+<p class="lead">Documentation of ATK for SuperCollider is available natively within SuperCollider.</p>
 
 &nbsp;
 
