@@ -73,10 +73,10 @@ The plugins are developed in the [JS FX](http://reaper.fm/sdk/js/js.php) scripti
 
 <dl class="dl-horizontal">
   <dt>Direct</dt>
-  <dd>Adjusts the directivity of an FOA soundfield across the origin, functioning as a spatial low-pass filter; with an increasing degree of transformation, the soundfield becomes less directional, eventually becoming omnipresent.</dd>
+  <dd>Adjusts the sound-field directivity across a plane specified by the user.</dd>
 
   <dt>DirectO</dt>
-  <dd>Adjusts the sound-field directivity across a plane specified by the user.</dd>
+  <dd>Adjusts the directivity of an FOA soundfield across the origin, functioning as a spatial low-pass filter; with an increasing degree of transformation, the soundfield becomes less directional, eventually becoming omnipresent.</dd>
 
   <dt>FocusPressPushZoom</dt>
   <dd>Unified interface to four different spatial transforms. Focus and Zoom are dominance related transforms and can be described as ‘emphasising’ elements in the direction of interest. Press and Push differs, and rather than emphasising elements in a target direction, all are ‘pressed’ or ‘pushed’ towards the direction of interest. With increasing spatial transform all four transforms collapse the soundfield to a planewave arriving from the direction of interest specified by azimuth and elevation.
