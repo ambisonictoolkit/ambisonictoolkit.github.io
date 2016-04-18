@@ -35,7 +35,7 @@ title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel
         Powerful ambisonic processing in <a href="http://supercollider.github.io/" target="_blank">SuperCollider</a>, a programming language for real time audio synthesis and algorithmic composition.
       </p>
       <p class="text-center">
-        ATK can be used with SuperCollider on the Max and Linux platforms.
+        ATK can be used with SuperCollider on the Mac and Linux platforms.
       </p>
       <p>&nbsp;</p>
       <p class="text-center">
