@@ -3,7 +3,7 @@ layout: page
 title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel composition</span>
 ---
 
-<p class="lead">The Ambisonic Toolkit (ATK) brings together a number of classic and novel tools for the artist working with <a href="https://en.wikipedia.org/wiki/Ambisonics" target="_blank">Ambisonic</a> surround sound. The toolset in intended to be both ergonomic and comprehensive, framed so that the user is enabled to ‘think Ambisonic’.</p>
+<p class="lead">The Ambisonic Toolkit (ATK) brings together a number of classic and novel tools for the artist working with <a href="https://en.wikipedia.org/wiki/Ambisonics" target="_blank">Ambisonic</a> surround sound. The toolset is intended to be both ergonomic and comprehensive, framed so that the user is enabled to ‘think Ambisonic’.</p>
 
 <img src="/assets/images/index_page/plugins.png" alt="alt text" title="The Ambisonic Toolkit" class="img-responsive center-block" style="width: 100%; max-width: 712px; padding-top: 2em; padding-bottom: 1em" />
 
