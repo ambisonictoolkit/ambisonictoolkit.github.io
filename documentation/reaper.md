@@ -12,7 +12,7 @@ permalink: /documentation/reaper/
 
 &nbsp;
 
-The plugins are developed in the [JS FX](http://reaper.fm/sdk/js/js.php) scripting language, and work with all platforms and processors supported by Reaper. Several of the plugins, most notably the Transforms, are provided with graphical user interfaces that help visualise the effect of the transform.
+The plugins are developed in the [JS FX](http://reaper.fm/sdk/js/js.php) scripting language, and work with all platforms and processors supported by Reaper. Several of the plugins, most noticeably the Transforms, are provided with graphical user interfaces that help visualise the effect of the transform.
 
 
 ## Overview of plugins
