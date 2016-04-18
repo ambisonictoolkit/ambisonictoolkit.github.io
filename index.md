@@ -13,11 +13,11 @@ title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel
 <div class="row equal">
   <div class="col-sm-6">
     <div class="well">
-      <h2>ATK for Reaper</h2>
-      <p>
+      <h2 class="text-center">ATK for Reaper</h2>
+      <p class="text-center">
         A set of JSFX plugins for spatial composition, sound design and virtual reality content development in the <a href="http://reaper.fm">Reaper</a> Digital Audio Workstation (DAW).
       </p>
-      <p>Reaper and these plugins can be used with Mac, Windows and Linux (using Vine).
+      <p class="text-center">Reaper and these plugins can be used with Mac, Windows and Linux (using Vine).
       </p>
       <p>&nbsp;</p>
       <p class="text-center">
@@ -30,11 +30,11 @@ title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel
   </div>
   <div class="col-sm-6">
     <div class="well">
-      <h2>ATK for SuperCollider</h2>
-      <p>
+      <h2 class="text-center">ATK for SuperCollider</h2>
+      <p class="text-center">
         Powerful ambisonic processing in <a href="http://supercollider.github.io/" target="_blank">SuperCollider</a>, a programming language for real time audio synthesis and algorithmic composition.
       </p>
-      <p>
+      <p class="text-center">
         ATK can be used with SuperCollider on the Max and Linux platforms.
       </p>
       <p>&nbsp;</p>
