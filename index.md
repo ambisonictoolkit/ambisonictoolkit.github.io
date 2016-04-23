@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel composition</span>
+title: The Ambisonic Toolkit <br/><span class="small">Tools for soundfield-kernel composition</span>
 ---
 
 <p class="lead">The Ambisonic Toolkit (ATK) brings together a number of classic and novel tools for the artist working with <a href="https://en.wikipedia.org/wiki/Ambisonics" target="_blank">Ambisonic</a> surround sound. The toolset in intended to be both ergonomic and comprehensive, framed so that the user is enabled to ‘think Ambisonic’.</p>
@@ -17,7 +17,7 @@ title: The Ambisonic Toolkit<br/><span class="small">Tools for soundfield-kernel
       <p class="text-center">
         A set of JSFX plugins for spatial composition, sound design and virtual reality content development in the <a href="http://reaper.fm">Reaper</a> Digital Audio Workstation (DAW).
       </p>
-      <p class="text-center">Reaper and these plugins can be used with Mac, Windows and Linux (using Vine).
+      <p class="text-center">Reaper and these plugins can be used with Mac, Windows and Linux (using Wine).
       </p>
       <p>&nbsp;</p>
       <p class="text-center">
