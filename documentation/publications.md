@@ -8,4 +8,28 @@ permalink: /publications/
 
 &nbsp;
 
+### Articles, Papers & Presentations
 * T. Lossius & J. Anderson (2014): [ATK Reaper: The Ambisonic Toolkit as JSFX plugins.](/assets/files/2014-ICMC-ATK-Reaper.pdf) Proceedings of the joint 40th International Computer Music Conference & 11th Sound and Music Computing Conference, Athens, pp. 1338-1345.
+
+* J. Anderson & J. Parmenter (2012): [3D sound with the Ambisonic Toolkit.](https://www.researchgate.net/publication/273379768_3D_sound_with_the_Ambisonic_Toolkit) Presented at the Audio Engineering Society 25th UK Conference / 4th International Symposium on Ambisonics and Spherical Acoustics, York.
+
+* J. Anderson (2011): [Authoring complex Ambisonic soundfields: An artist’s tips & tricks.](https://www.researchgate.net/publication/273944382_Authoring_complex_Ambisonic_soundfields_An_artist%27s_tips_tricks) Presented at the Sounds in SPACE Symposium, Derby, UK.
+
+* J. Anderson (2009): [Introducing... The Ambisonic Toolkit.](http://ambisonics.iem.at/symposium2009/proceedings/ambisym09-josephanderson-ambitk-poster.pdf/view) Proceedings of the Ambisonics Symposium 2009, Graz.
+
+* J. Anderson (1999): [What is Ambisonics and how can I get some.](http://econtact.ca/2_4/Ambisonics.htm) eContact!, vol. 2.4, no. ix, Montréal.
+
+&nbsp;
+
+### Sound Recordings
+<script>/* [DELETE TAGS on JH publication]
+* J. Harrison (2016): [Voyages.](http://www.electrocd.com/en/cat/imed_jh/) CD. IMEDxxxx. Montréal: empreintes DIGITALes.
+*/</script>
+
+* J. Pampin (2016): [Percussion Cycle.](http://www.sargasso.com/?product=juan-pampin-percussion-cycle) CD. SCD28079. London: Sargasso Records.
+
+* J. Pampin (2012): &#8220;On Space.&#8221; On [Les Percussions de Strasbourg: 50th Anniversary Edition.](http://www.percussionsdestrasbourg.com/wp-content/uploads/2014/07/Livret_Percussions_de_Strasbourg_50e1.pdf) CD. 480 6512. Paris: Classics Jazz France (Universal Music France).
+
+* J. Zwaanenburg (2011): [20 Odd Years.](http://www.fmr-records.com/pdffiles/FMRCD316.pdf) CD. FMRCD316-0711. Rayleigh, UK: FMR Records.
+
+* J. Anderson (2008): [Epiphanie Sequence.](http://www.sargasso.com/?product=joseph-anderson-epiphanie-sequence) CD. SCD28056. London: Sargasso Records.
