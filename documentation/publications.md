@@ -22,14 +22,15 @@ permalink: /publications/
 &nbsp;
 
 ### Sound Recordings
+
 <script>/* [DELETE TAGS on JH publication]
-* J. Harrison (2016): [Voyages.](http://www.electrocd.com/en/cat/imed_jh/) CD. IMEDxxxx. Montréal: empreintes DIGITALes.
+* J. Harrison (2016): [Voyages.](http://www.electrocd.com/en/cat/imed_jh/) CD. IMEDxxxx. empreintes DIGITALes, Montréal.
 */</script>
 
-* J. Pampin (2016): [Percussion Cycle.](http://www.sargasso.com/?product=juan-pampin-percussion-cycle) CD. SCD28079. London: Sargasso Records.
+* J. Pampin (2016): [Percussion Cycle.](http://www.sargasso.com/?product=juan-pampin-percussion-cycle) CD. SCD28079. Sargasso Records, London.
 
-* J. Pampin (2012): &#8220;On Space.&#8221; On [Les Percussions de Strasbourg: 50th Anniversary Edition.](http://www.percussionsdestrasbourg.com/wp-content/uploads/2014/07/Livret_Percussions_de_Strasbourg_50e1.pdf) CD. 480 6512. Paris: Classics Jazz France (Universal Music France).
+* J. Pampin (2012): &#8220;On Space.&#8221; On [Les Percussions de Strasbourg: 50th Anniversary Edition.](http://www.percussionsdestrasbourg.com/wp-content/uploads/2014/07/Livret_Percussions_de_Strasbourg_50e1.pdf) CD. 480 6512. Classics Jazz France (Universal Music France), Paris.
 
-* J. Zwaanenburg (2011): [20 Odd Years.](http://www.fmr-records.com/pdffiles/FMRCD316.pdf) CD. FMRCD316-0711. Rayleigh, UK: FMR Records.
+* J. Zwaanenburg (2011): [20 Odd Years.](http://www.fmr-records.com/pdffiles/FMRCD316.pdf) CD. FMRCD316-0711. FMR Records, Rayleigh, UK.
 
-* J. Anderson (2008): [Epiphanie Sequence.](http://www.sargasso.com/?product=joseph-anderson-epiphanie-sequence) CD. SCD28056. London: Sargasso Records.
+* J. Anderson (2008): [Epiphanie Sequence.](http://www.sargasso.com/?product=joseph-anderson-epiphanie-sequence) CD. SCD28056. Sargasso Records, London.
