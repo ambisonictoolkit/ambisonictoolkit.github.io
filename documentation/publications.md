@@ -29,7 +29,9 @@ permalink: /publications/
 
 * J. Pampin (2016): [Percussion Cycle.](http://www.sargasso.com/?product=juan-pampin-percussion-cycle) CD. SCD28079. Sargasso Records, London.
 
-* J. Pampin (2012): &#8220;On Space.&#8221; On [Les Percussions de Strasbourg: 50th Anniversary Edition.](http://www.percussionsdestrasbourg.com/wp-content/uploads/2014/07/Livret_Percussions_de_Strasbourg_50e1.pdf) CD. 480 6512. Classics Jazz France (Universal Music France), Paris.
+* E. Trębacz (2013): &#8220;Errai&#8221; & &#8220;ANC&#8217;L&#8217;SUNR&#8221;. On [Polish Music Today. Portraits of Contemporary Polish Composers: Ewa Trębacz.](http://www.polmic.pl/index.php?option=com_content&view=article&id=2660:muzyka-polska-dzisiaj-portrety-wspoczesnych-kompozytorow-polskich&catid=10:naszeprojekty&Itemid=32&lang=en) CD. PRCD 1749. Polmic, Warsaw.
+
+* J. Pampin (2012): &#8220;On Space&#8221;. On [Les Percussions de Strasbourg: 50th Anniversary Edition.](http://www.percussionsdestrasbourg.com/wp-content/uploads/2014/07/Livret_Percussions_de_Strasbourg_50e1.pdf) CD. 480 6512. Classics Jazz France (Universal Music France), Paris.
 
 * J. Zwaanenburg (2011): [20 Odd Years.](http://www.fmr-records.com/pdffiles/FMRCD316.pdf) CD. FMRCD316-0711. FMR Records, Rayleigh, UK.
 
