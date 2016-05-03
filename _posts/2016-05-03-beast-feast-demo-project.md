@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ATK presentation at BEAST FEAST
+title:  BEAST FEAST Demo Reaper Project
 author: Trond Lossius
 date:   2016-05-03 13:00:00 +0100
 categories: zoom
