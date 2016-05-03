@@ -15,9 +15,11 @@ permalink: /publications/
 
 * J. Anderson (2011): [Authoring complex Ambisonic soundfields: An artist’s tips & tricks.](https://www.researchgate.net/publication/273944382_Authoring_complex_Ambisonic_soundfields_An_artist%27s_tips_tricks) Presented at the Sounds in SPACE Symposium, Derby, UK.
 
+* J. Anderson (2010): [“Technika ambisonics: Bardzo krótkie wprowadzenie do innowacyjnej teorii,”](http://glissando.pl/en/issues/16-16-2010/) Glissando, vol. 16, pp. 49–55.
+
 * J. Anderson (2009): [Introducing... The Ambisonic Toolkit.](http://ambisonics.iem.at/symposium2009/proceedings/ambisym09-josephanderson-ambitk-poster.pdf/view) Proceedings of the Ambisonics Symposium 2009, Graz.
 
-* J. Anderson (1999): [What is Ambisonics and how can I get some.](http://econtact.ca/2_4/Ambisonics.htm) eContact!, vol. 2.4, no. ix, Montréal.
+* J. Anderson (1999): [What is Ambisonics and how can I get some.](http://econtact.ca/2_4/Ambisonics.htm) eContact!, vol. 2.4, no. ix.
 
 &nbsp;
 
