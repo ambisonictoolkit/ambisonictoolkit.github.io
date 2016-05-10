@@ -12,11 +12,15 @@ permalink: /download/supercollider/
 
 <p>Compiled releases are available from the  <a href="https://github.com/supercollider/sc3-plugins/releases" target="_blank">sc3-plugins releases</a> page.</p>
 
+&nbsp;
+
 <p>Place the downloaded <code>SC3plugins</code> folder in your <code>Extensions</code> folder. On Mac OS X, this resolves to:</p>
 
 <p><code>~/Library/Application Support/SuperCollider/Extensions</code>.</p>
 
 <p>You may need to create the <code>Extensions</code> folder if it does not already exist.</p>  
+
+&nbsp;
 
 <p>On other platforms, you can find where this is by running the following line of code in SuperCollider:</p>
 
