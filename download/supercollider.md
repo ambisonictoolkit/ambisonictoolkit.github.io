@@ -25,7 +25,7 @@ Platform.userExtensionDir.openOS
 
 <p>&nbsp;</p>
 
-<p>You may also wish to review the documentation on [Using Extensions](http://doc.sccode.org/Guides/UsingExtensions.html).
+<p>You may also wish to review the documentation on <a href="http://doc.sccode.org/Guides/UsingExtensions.html" target="_blank">Using Extensions</a>.
 
 If building from source for OS X, Windows or Linux, follow the sc3-plugins build and install directions.</p>
 
