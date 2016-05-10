@@ -10,7 +10,20 @@ permalink: /download/supercollider/
 
 <h2>Distributed via the <a href="http://sc3-plugins.sourceforge.net/" target="_blank">sc3-plugins</a> project.</h2>
 
-<p>On Mac OS X, the plugin download can be placed into the <code>~/Library/Application Support/SuperCollider/Extensions</code> folder. If building from source for OS X, Windows or Linux, follow the sc3-plugins build and install directions.</p>
+<p>On Mac OS X, the sc3-plugins download can be placed into the <code>Platform.userExtensionDir</code> folder. You can run the following code to open the Extensions directory:
+
+<code>
+sc3-plugins Installation
+(
+// Place sc3-plugins Extensions in the directory opened  
+
+Platform.userExtensionDir.openOS
+)
+<code>
+
+You may also wish to review the documentation on [Using Extensions](http://doc.sccode.org/Guides/UsingExtensions.html).
+
+If building from source for OS X, Windows or Linux, follow the sc3-plugins build and install directions.</p>
 
 <p>Additionally, the SuperCollider3 version of the ATK has a number of dependencies. Please install the following:<br/><br/></p>
 
