@@ -25,28 +25,27 @@ permalink: /download/recordings/
 
 <div class="alert alert-info">
 
-  <h2>Installing example files for SuperCollider</h2>
+<h2>Installing example files for SuperCollider</h2>
 
-  <p>For full featured Help examples in SuperCollider, ATK example sound files are required. Install the ATK <a href="/download/supercollider">as described</a>, then download example files found on this page.</P>
+<p>For full featured Help examples in SuperCollider, ATK example sound files are required. Install the ATK <a href="/download/supercollider">as described</a>, then download example files found on this page.</P>
 
-  <p>Launch SuperCollider3 and run the following code:</p>
+<p>Launch SuperCollider3 and run the following code:</p>
 
+<p>&nbsp;</p>
 
-  <p>&nbsp;</p>
+<pre>
+Soundfile examples
+(
+// Place unzipped kernels in the directory opened
+// Presume Atk.userSupportDir has already been created
 
-  <pre>
-  Soundfile examples
-  (
-  // Place unzipped kernels in the directory opened
-  // Presume Atk.userSupportDir has already been created
+Atk.openUserSupportDir;
+)
+</pre>
 
-  Atk.openUserSupportDir;
-  )
-  </pre>
+<p>If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded sound file here.</p>
 
-  <p>If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded sound file here.</p>
-
-  <p><strong>Note:</strong> Users are strongly advised to download and install these files.</p>
+<p><strong>Note:</strong> Users are strongly advised to download and install these files.</p>
 
 </div>
 
