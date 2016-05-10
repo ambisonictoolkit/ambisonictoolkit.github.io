@@ -16,7 +16,9 @@ permalink: /download/supercollider/
 
 <p><code>~/Library/Application Support/SuperCollider/Extensions</code>.</p>
 
-<p>You may need to create the <code>Extensions</code> folder if it does not already exist.  On other platforms, you can find where this is by running the following line of code in SuperCollider:</p>
+<p>You may need to create the <code>Extensions</code> folder if it does not already exist.</p>  
+
+<p>On other platforms, you can find where this is by running the following line of code in SuperCollider:</p>
 
 &nbsp;
 
