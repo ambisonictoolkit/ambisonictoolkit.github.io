@@ -17,7 +17,7 @@ permalink: /download/recordings/
 
 <h2>Using the example files with Reaper</h2>
 
-<P>The example files are not necsessary in order for ATK for Reaper to work, but they may come in handy when testing the various encoders, transformers and decorders.</P>
+<P>The example files are not necessary in order for ATK for Reaper to work, but they may come in handy when testing the various encoders, transformers and decoders.</P>
 
 </div>
 
@@ -27,7 +27,7 @@ permalink: /download/recordings/
 
 <h2>Installing example files for SuperCollider</h2>
 
-<p>For full featured Help examples in SuperCollider, ATK example sound files are required. Install the ATK <a href="/download/supercollider">as described</a>, then download example files found on this page.</P>
+<p>For full featured Help examples in SuperCollider, ATK example sound files are required. Install the ATK <a href="/download/supercollider">as described</a>, then download example files found on this page.</p>
 
 <p>Launch SuperCollider3 and run the following code:</p>
 
