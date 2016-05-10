@@ -12,6 +12,8 @@ permalink: /download/supercollider/
 
 <p>On Mac OS X, the sc3-plugins download can be placed into the <code>Platform.userExtensionDir</code> folder. You can run the following code to open the Extensions directory:</p>
 
+<p>&nbsp;</p>
+
 <pre>
 sc3-plugins Installation
 (
