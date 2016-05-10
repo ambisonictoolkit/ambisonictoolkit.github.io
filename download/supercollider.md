@@ -12,7 +12,13 @@ permalink: /download/supercollider/
 
 <p>Compiled releases are available from the  <a href="https://github.com/supercollider/sc3-plugins/releases" target="_blank">sc3-plugins releases</a> page.</p>
 
-<p>Place the downloaded <code>SC3plugins</code> folder in your <code>Extensions</code> folder. On Mac OS X, this resolves to <code>~/Library/Application Support/SuperCollider/Extensions</code>. You may need to create the /Extensions folder if it does not already exist.  On other platforms, you can find where this is by running the following line of code in SuperCollider:</p>
+<p>Place the downloaded <code>SC3plugins</code> folder in your <code>Extensions</code> folder. On Mac OS X, this resolves to:</p>
+
+<p><code>~/Library/Application Support/SuperCollider/Extensions</code>.</p>
+
+<p>You may need to create the <code>Extensions</code> folder if it does not already exist.  On other platforms, you can find where this is by running the following line of code in SuperCollider:</p>
+
+&nbsp;
 
 <pre>
 (
@@ -29,7 +35,7 @@ Platform.userExtensionDir.openOS;
 <p>Additionally, the SuperCollider3 version of the ATK has a number of dependencies. Please install the following:<br/><br/></p>
 
 <ul>
-  <li>Install the <strong>MathLib</strong> Quark most simply by running <code>Quarks.gui</code> in the SuperCollider IDE. Further install options and informations on Quarks can be found in SuperCollider's Help system, see <a href="http://doc.sccode.org/Guides/UsingQuarks.html" target="_blank">Using Quarks</a>), and also at the <a href="https://github.com/supercollider-quarks/quarks" target="_blank">supercollider-quarks GitHub page</a></li>
+  <li>Install the <strong>MathLib</strong> Quark most simply by running <code>Quarks.gui</code> in the SuperCollider IDE. Further install options and informations on Quarks can be found in SuperCollider's Help system, see <a href="http://doc.sccode.org/Guides/UsingQuarks.html" target="_blank">Using Quarks</a>, and also at the <a href="https://github.com/supercollider-quarks/quarks" target="_blank">supercollider-quarks GitHub page</a></li>
   <li>Download and install <a href="/download/kernels">ATK Kernels</a>.</li>
   <li>Download and install <a href="/download/recordings">ATK Sound File Example Recordings</a>.</li>
 </ul>
