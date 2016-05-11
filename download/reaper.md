@@ -10,7 +10,7 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
 
 <div class="row equal">
   <div class="col-md-6">
-    
+
     <div class="panel panel-default">
         <div class="panel-heading">
             <h1 class="panel-title text-center">OSX</h1>
@@ -30,7 +30,7 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
 
   </div> <!-- column -->
   <div class="col-md-6">
-    
+
     <div class="panel panel-default">
         <div class="panel-heading">
             <h1 class="panel-title text-center">Windows</h1>
@@ -58,7 +58,7 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
 <div class="alert alert-info">
   A set of complementary example sound files for trying out the plugins can be <a href="/download/recordings">downloaded here</a>.
 </div>
- 
+
 &nbsp;
 
 ### Source code
@@ -67,9 +67,6 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
 
 ### License
 
-ATK for Reaper is free software, and is published under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU LGPL</a> free software license.
+<a rel="license" href="http://www.gnu.org/copyleft/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br />The Ambisonic Toolkit for SuperCollider is free software, and is published under the [GPLv3](http://www.gnu.org/copyleft/gpl.html) free software license.
 
 The development of ATK for Reaper is supported by <a href="http://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.
-
-
-
