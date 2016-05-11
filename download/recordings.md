@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Example Sound Files<br/><span class="lead">Ambisonic Toolkit optionally includes a number of 30 second extracts from published and unpublished recordings.</span>
+title: Example Sound Files<br/><small>A number of 30 second extracts from published and unpublished recordings</small>
 
 permalink: /download/recordings/
 ---

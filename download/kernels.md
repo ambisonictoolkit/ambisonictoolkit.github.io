@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kernels<br/><span class="small">A set of impulse response files used for convolution-based encoders and decoders.</span>
+title: Kernels<br/><small>A set of impulse response files used for convolution-based encoders and decoders</small>
 permalink: /download/kernels/
 ---
 
