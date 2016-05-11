@@ -16,7 +16,7 @@ permalink: /download/kernels/
 
   <h2>Using Kernels with Reaper</h2>
 
-  <p>The kernels are already included as part of the <a href="/download/reaper/">ATK for Reaper</a> install, and there is no need to download and install the kernels seperately.</p>
+  <p>The Kernels are already included as part of the <a href="/download/reaper/">ATK for Reaper</a> install, and there is no need to download and install the kernels seperately.</p>
 
 </div>
 
@@ -46,3 +46,11 @@ Atk.openUserSupportDir;
 <p>If ATK for SuperCollider has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded kernels here.</p>
 
 </div>
+
+&nbsp;
+
+### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />The Ambisonic Toolkit Kernels package is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+Copyright the [Ambisonic Toolkit](http://ambisonictoolkit.net) Community and Joseph Anderson, 2011.
