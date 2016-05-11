@@ -58,7 +58,6 @@ Platform.userExtensionDir.openOS;
 
 You can build ATK for SuperCollider from the [sc3-plugins](https://github.com/supercollider/sc3-plugins) source-code.
 
-&nbsp;
 
 ### License
 
