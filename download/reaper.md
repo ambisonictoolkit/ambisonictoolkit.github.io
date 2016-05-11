@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download ATK for Reaper<br/><span class="small">A set of JSFX plugins for the Reaper DAW</span>
+title: Download ATK for Reaper<br/><small>A set of JSFX plugins for the Reaper DAW</small>
 permalink: /download/reaper/
 ---
 
