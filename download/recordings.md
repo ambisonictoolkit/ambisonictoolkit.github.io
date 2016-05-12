@@ -75,26 +75,26 @@ Joseph Anderson, "Pacific Slope," Epiphanie Sequence, Sargasso SCD28056
 
 D. Courville, "Comparative Surround Recording," Ambisonic Studio |
 Comparative Surround Recording, 2007. [Online]. Available:
-http://www.radio.uqam.ca/ambisonic/comparative_recording.html
+[http://www.radio.uqam.ca/ambisonic/comparative_recording.html](http://www.radio.uqam.ca/ambisonic/comparative_recording.html)
 [Accessed: 26-Jul-2011].
 
 P. Hodges, "Purcell - Passacaglia (King Arthur)," Sound of Space:
 ambisonic surround sound. [Online]. Available:
-http://soundofspace.com/ambisonic_files/52 [Accessed: 03-Nov-2011].
+[http://soundofspace.com/ambisonic_files/52](http://soundofspace.com/ambisonic_files/52) [Accessed: 03-Nov-2011].
 
 Tim Howle, "Calling Tunes," 20 Odd Years, FMR FMRCD316-0711
 
 J. Leonard, "A couple of Chinook helicopters," Sound of Space:
 ambisonic surround sound, 20-Mar-2008. [Online]. Available:
-http://soundofspace.com/ambisonic_files/47. [Accessed: 03-Nov-2011].
+[http://soundofspace.com/ambisonic_files/47](http://soundofspace.com/ambisonic_files/47). [Accessed: 03-Nov-2011].
 
 J. Leonard, "Fireworks," Sound of Space: ambisonic surround sound,
 25-Aug-2009. [Online]. Available:
-http://soundofspace.com/ambisonic_files/37. [Accessed: 03-Nov-2011].
+[http://soundofspace.com/ambisonic_files/37](http://soundofspace.com/ambisonic_files/37). [Accessed: 03-Nov-2011].
 
 J. Leonard, "The Orfeo Trio & TetraMic," Sound of Space:
 ambisonic surround sound. [Online]. Available:
-http://soundofspace.com/ambisonic_files/41 [Accessed: 03-Nov-2011].
+[http://soundofspace.com/ambisonic_files/41](http://soundofspace.com/ambisonic_files/41) [Accessed: 03-Nov-2011].
 
 Juan Pampin, "On Space," Les Percussions de Strasbourg 50th Anniversary Edition, Classics Jazz France 480 6512
 
@@ -152,5 +152,5 @@ Joseph Anderson, "Stape Silver Band: March," [unpublished recording]
 
 D. Courville, "Comparative Surround Recording," Ambisonic Studio |
 Comparative Surround Recording, 2007. [Online]. Available:
-http://www.radio.uqam.ca/ambisonic/comparative_recording.html
+[http://www.radio.uqam.ca/ambisonic/comparative_recording.html](http://www.radio.uqam.ca/ambisonic/comparative_recording.html)
 [Accessed: 26-Jul-2011].
