@@ -4,9 +4,9 @@ title: Download ATK for Reaper<br/><small>A set of JSFX plugins for the Reaper D
 permalink: /download/reaper/
 ---
 
-<h2 class="page-header">Version 1.0 beta 6</h2>
+<h2 class="page-header">Version 1.0 beta 7</h2>
 
-ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
+ATK for Reaper v. 1.0.b7 requires Reaper 5.0 or newer.
 
 <div class="row equal">
   <div class="col-md-6">
@@ -18,7 +18,7 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="https://db.tt/7iHJWtfJ" class="btn btn-success">Download for OSX</a>
+            <a href="http://bit.ly/1U8AxQq" class="btn btn-success">Download for OSX</a>
           </p>
           <p>&nbsp;</p>
           <p>The OSX version is provided as an installer.</p>
@@ -38,7 +38,7 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="https://db.tt/NpLPD0hX" class="btn btn-success">Download for Windows</a>
+            <a href="http://bit.ly/1TR79eL" class="btn btn-success">Download for Windows</a>
           </p>
           <p>&nbsp;</p>
           <p>The Windows version is a zipped archive.</p>
@@ -61,12 +61,20 @@ ATK for Reaper v. 1.0.b6 requires Reaper 4.75 or newer.
 
 &nbsp;
 
+#### Previous versions
+
+* ATK for Reaper version 1.0. beta 6
+    * [Installer for OSX](http://bit.ly/1N371vf)
+    * [Installer for Windows](http://bit.ly/1N372zt)
+
+&nbsp;
+
 ### Source code
 
 [Fork ATK for Reaper at GitHub.](https://github.com/ambisonictoolkit/atk-reaper)
 
 ### License
 
-<a rel="license" href="http://www.gnu.org/copyleft/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br />The Ambisonic Toolkit for SuperCollider is free software, and is published under the [GPLv3](http://www.gnu.org/copyleft/gpl.html) free software license.
+<a rel="license" href="http://www.gnu.org/copyleft/lgpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/lgplv3-88x31.png" /></a><br />The Ambisonic Toolkit for Reaper is free software, and is published under the [LGPLv3](http://www.gnu.org/copyleft/lgpl.html) free software license.
 
 The development of ATK for Reaper is supported by <a href="http://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.
