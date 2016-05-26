@@ -8,7 +8,7 @@ permalink: /download/recordings/
 &nbsp;
 
 <p class="text-center">
-  <a href="https://github.com/ambisonictoolkit/atk-recordings/releases/latest" class="btn btn-success btn-lg">Download Example Sound Files</a>
+  <a href="https://github.com/ambisonictoolkit/atk-sounds/releases/latest" class="btn btn-success btn-lg">Download Example Sound Files</a>
 </p>
 
 &nbsp;
