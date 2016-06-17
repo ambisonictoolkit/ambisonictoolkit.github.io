@@ -24,6 +24,7 @@ do. You'll note _we've_ done lot's of cool Ambisonic stuff so _you_ can do cool
 Ambisonic stuff, too!
 
 ---
+
 #### How to upgrade? ####
 
 If you're an [ATK for SuperCollider](/download/supercollider/) user, just
