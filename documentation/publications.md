@@ -36,9 +36,8 @@ pp.-20-31
 
 ### Sound Recordings
 
-<script>/* [DELETE TAGS on JH publication]
-* J. Harrison (2016): [Voyages.](http://www.electrocd.com/en/cat/imed_jh/) CD. IMED 16139. empreintes DIGITALes, Montréal.
-*/</script>
+* J. Harrison (2016): [Voyages.](http://www.electrocd.com/en/cat/imed_16139/)
+CD. IMED 16139. empreintes DIGITALes, Montréal.
 
 * J. Pampin (2016): [Percussion Cycle.](http://www.sargasso.com/?product=juan-pampin-percussion-cycle) CD. SCD28079. Sargasso Records, London.
 
