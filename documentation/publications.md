@@ -9,16 +9,16 @@ permalink: /publications/
 &nbsp;
 
 ### Articles, Papers & Presentations
-<script>/* [DELETE TAGS on Ideas Sónicas/Sonic Ideas publication]
-T. Lossius & J. Anderson (2016): "ATK Reaper: The Ambisonic Toolkit as JSFX plugins",
-In: Ideas Sónicas/Sonic Ideas, Vol 16, January-June 2016, CMMAS, Morelia, Mexico. ISSN:2317-9694.
-pp.9-19
+* T. Lossius & J. Anderson (2016):
+["ATK Reaper: The Ambisonic Toolkit as JSFX plugins"](http://www.cmmas.org/sonicideas/index.php?vol=8&num=16),
+Ideas Sónicas/Sonic Ideas, vol 8, no. 16., CMMAS, Morelia, Mexico.
+ISSN:2317-9694. pp. 9-19
 
-T. Lossius & J. Anderson (2016): "ATK Reaper: Una versión en Plugin JSFX del Ambisonic Toolkit",
-(Traducción al español de Lucas Samaruga) En: Ideas Sónicas/Sonic Ideas, Vol 16, Enero-Junio 2016,
-CMMAS, Morelia, Mexico. ISSN:2317-9694.
-pp.-20-31
-*/</script>
+* T. Lossius & J. Anderson (2016):
+["ATK Reaper: Una versión en Plugin JSFX del Ambisonic Toolkit"](http://www.cmmas.org/sonicideas/index.php?vol=8&num=16),
+(Traducción al Español de Lucas Samaruga)
+Ideas Sónicas/Sonic Ideas, año 8, no. 16., CMMAS, Morelia, Mexico.
+ISSN:2317-9694. pp. 20-31
 
 * T. Lossius & J. Anderson (2014): [ATK Reaper: The Ambisonic Toolkit as JSFX plugins.](/assets/files/2014-ICMC-ATK-Reaper.pdf) Proceedings of the joint 40th International Computer Music Conference & 11th Sound and Music Computing Conference, Athens, pp. 1338-1345.
 
