@@ -62,3 +62,5 @@ You can build ATK for SuperCollider from the [sc3-plugins](https://github.com/su
 ### License
 
 <a rel="license" href="http://www.gnu.org/copyleft/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br />The Ambisonic Toolkit for SuperCollider is free software, and is published under the [GPLv3](http://www.gnu.org/copyleft/gpl.html) free software license.
+
+The development of ATK for SuperCollider is supported by <a href="https://dxarts.washington.edu/" target="_blannk">DXARTS &ndash; Center for Digital Arts and Experimental Media</a>.
