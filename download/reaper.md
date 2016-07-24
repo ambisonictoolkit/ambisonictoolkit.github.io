@@ -4,9 +4,10 @@ title: Download ATK for Reaper<br/><small>A set of JSFX plugins for the Reaper D
 permalink: /download/reaper/
 ---
 
-<h2 class="page-header">Version 1.0 beta 7</h2>
+<h2 class="page-header">Version 1.0 beta 9<br/>
+	<small>Released 2016-07-24</small></h2>
 
-ATK for Reaper v. 1.0.b7 requires Reaper 5.0 or newer.
+ATK for Reaper v. 1.0.b9 requires Reaper 5.0 or newer.
 
 <div class="row equal">
   <div class="col-md-6">
@@ -18,7 +19,7 @@ ATK for Reaper v. 1.0.b7 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="http://bit.ly/1U8AxQq" class="btn btn-success">Download for OSX</a>
+            <a href="http://bit.ly/2al6AhW" class="btn btn-success">Download for OSX</a>
           </p>
           <p>&nbsp;</p>
           <p>The OSX version is provided as an installer.</p>
@@ -38,7 +39,7 @@ ATK for Reaper v. 1.0.b7 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="http://bit.ly/1TR79eL" class="btn btn-success">Download for Windows</a>
+            <a href="http://bit.ly/2al72wq" class="btn btn-success">Download for Windows</a>
           </p>
           <p>&nbsp;</p>
           <p>The Windows version is a zipped archive.</p>
@@ -63,7 +64,10 @@ ATK for Reaper v. 1.0.b7 requires Reaper 5.0 or newer.
 
 #### Previous versions
 
-* ATK for Reaper version 1.0. beta 6
+* ATK for Reaper version 1.0. beta 7 <small>(Released 2016-05-23)</small>
+    * [Installer for OSX](http://bit.ly/1U8AxQq)
+    * [Installer for Windows](http://bit.ly/1TR79eL)
+* ATK for Reaper version 1.0. beta 6 <small>(Released 2015-11-04)</small>
     * [Installer for OSX](http://bit.ly/1N371vf)
     * [Installer for Windows](http://bit.ly/1N372zt)
 
