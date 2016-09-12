@@ -41,7 +41,8 @@ Platform.userExtensionDir.openOS;
 <p>Additionally, the SuperCollider3 version of the ATK has a number of dependencies. Please install the following:<br/><br/></p>
 
 <ul>
-  <li>Install the <strong>MathLib</strong> Quark most simply by running <code>Quarks.gui</code> in the SuperCollider IDE. Further install options and informations on Quarks can be found in SuperCollider's Help system, see <a href="http://doc.sccode.org/Guides/UsingQuarks.html" target="_blank">Using Quarks</a>, and also at the <a href="https://github.com/supercollider-quarks/quarks" target="_blank">supercollider-quarks</a> GitHub page</li>
+  <li>Install the <strong>MathLib</strong> Quark most simply by running <code>Quarks.gui</code> in the SuperCollider IDE. Further install options and information on Quarks can be found in SuperCollider's Help system, see <a href="http://doc.sccode.org/Guides/UsingQuarks.html" target="_blank">Using Quarks</a>, and also at the <a href="https://github.com/supercollider-quarks/quarks" target="_blank">supercollider-quarks</a> GitHub page</li>
+  <li>Install the <strong>FileLog</strong> Quark.</li>
   <li>Download and install <a href="/download/kernels">ATK Kernels</a>.</li>
   <li>Download and install <a href="/download/recordings">ATK Sound File Example Recordings</a>.</li>
 </ul>
