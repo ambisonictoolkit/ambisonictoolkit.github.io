@@ -26,6 +26,12 @@ permalink: /documentation/reaper/tutorials/
   </div> <!-- column -->
 </div> <!-- row -->
 
+<p class="text-center">
+  <a href="https://github.com/ambisonictoolkit/atk-reaper-examples/releases/latest" class="btn btn-success btn-lg">Download Reaper projects for these tutorials</a>
+</p>
+
+&nbsp;
+
 <h2>More tutorials <small>are forthcoming</small></h2>
 
 <p class="lead">The documentation of ATK for Reaper is not yet complete, but more screencasts are planned. Until then you can find a step-by-step tutorial for working with ambisonics in Reaper <a href="https://dxarts.washington.edu/wiki/ambisonic-mixing-reaper" >here</a>. The following presentation gives a general overview of ATK for Reaper.</p>
