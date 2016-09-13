@@ -42,8 +42,7 @@ permalink: /documentation/reaper/tutorials/
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_da97ALqAY4"></iframe>
     </div>
     <p><em>Presentation by Trond Lossius at MusicTechFest Scandi in Umeå, 2015.</em></p>
-  </dov>  <!-- column -->
-  <div class="col-md-12">
+  </div>  <!-- column -->
 </div> <!-- row -->
 
 &nbsp;
