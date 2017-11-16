@@ -9,6 +9,8 @@ permalink: /publications/
 &nbsp;
 
 ### Articles, Papers & Presentations
+* J. Anderson (2016): [Ambisonics & the ATK @ DXARTS.](https://www.researchgate.net/publication/321110669_Ambisonics_the_ATK_DXARTS) Presented at the Pacific Northwest AES Section Meeting (Nov 2017), Seattle.
+
 * T. Lossius & J. Anderson (2016):
 ["ATK Reaper: The Ambisonic Toolkit as JSFX plugins"](http://www.cmmas.org/sonicideas/index.php?vol=8&num=16),
 Ideas Sónicas/Sonic Ideas, vol 8, no. 16., CMMAS, Morelia, Mexico.
