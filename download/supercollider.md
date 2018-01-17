@@ -74,7 +74,7 @@ Platform.userExtensionDir.openOS;
 
 <p>&nbsp;</p>
 
-<p><strong>NOTE:</strong> The ATK requires SuperCollider3 version 3.5 or later. Download the latest version <a href="http://supercollider.github.io/download" target="_blank">here</a>, or fork the source code at <a href="http://supercollider.github.io/" target="_blank">GitHub</a>.</p>
+<p><strong>NOTE:</strong> The ATK requires SuperCollider3 version 3.9 or later. Download the latest version <a href="http://supercollider.github.io/download" target="_blank">here</a>, or fork the source code at <a href="http://supercollider.github.io/" target="_blank">GitHub</a>.</p>
 
 </div>
 
