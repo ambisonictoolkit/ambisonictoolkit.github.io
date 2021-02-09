@@ -1,6 +1,9 @@
 # OSX Desktop Service Store
 .DS_Store
 
+# jekyll
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
+vendor
