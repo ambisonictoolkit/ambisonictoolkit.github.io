@@ -26,24 +26,22 @@ permalink: /download/kernels/
 
 <h2>Using Kernels with SuperCollider</h2>
 
-<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. Launch SuperCollider3, and run the following code:</p>
+<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="http://supercollider.github.io" target="_blank">SuperCollider</a> are
+<a href="https://github.com/ambisonictoolkit/atk-sc3#kernels-matrices--soundfiles" target="_blank"><strong>found here</strong></a>.)
+</p>
+
+<p>If successful, the following code will open the user support directory for inspection:</p>
 
 <p>&nbsp;</p>
 
 <pre>
-ATK Kernel Installation
 (
-// Create ATK support directory
-// Place unzipped kernels in the directory opened  
-
-Atk.createUserSupportDir;
+// Open user support directory
 Atk.openUserSupportDir;
 )
 </pre>
 
 <p>&nbsp;</p>
-
-<p>If ATK for SuperCollider has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded kernels here.</p>
 
 </div>
 

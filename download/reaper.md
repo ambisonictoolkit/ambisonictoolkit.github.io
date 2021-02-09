@@ -24,8 +24,9 @@ ATK for Reaper v. 1.0.b10 requires Reaper 5.0 or newer.
           <p>&nbsp;</p>
           <p>The OSX version is provided as an installer.</p>
           <p>Files are installed in the home folder, and will not affect other users.</p>
-          <p>This is a complete install, providing all the files you need to use Ambisonic Toolkit with Reaper. The convolution kernels are provided as part of the installers. There is no need to download and install them separately.</p>
-          <p>If you are using Ambisonic Toolkit with SuperCollider as well as Reaper, the convolution kernels are installed in the same place and have the exact same content. We do not expect this to cause any conflicts.</p>
+          <p>This is a complete install, providing all the files you need to use Ambisonic Toolkit with Reaper. The convolution kernels and matrices are provided as part of the installers. There is no need to download and install them separately.</p>
+          <p>If you are using Ambisonic Toolkit with SuperCollider as well as Reaper, you'll need to complete the installation
+		  <a href="https://github.com/ambisonictoolkit/atk-sc3#kernels-matrices--soundfiles" target="_blank"><strong>described here</strong></a>. We do not expect this to cause any conflicts.</p>
         </div>
     </div>
 

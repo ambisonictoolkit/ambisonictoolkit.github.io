@@ -27,23 +27,24 @@ permalink: /download/recordings/
 
 <h2>Installing example files for SuperCollider</h2>
 
-<p>For full featured Help examples in SuperCollider, ATK example sound files are required. Install the ATK <a href="/download/supercollider">as described</a>, then download example files found on this page.</p>
+<p>For full featured Help examples in SuperCollider, ATK example sound files are required.</p>
 
-<p>Launch SuperCollider3 and run the following code:</p>
+<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="http://supercollider.github.io" target="_blank">SuperCollider</a> are
+<a href="https://github.com/ambisonictoolkit/atk-sc3#kernels-matrices--soundfiles" target="_blank"><strong>found here</strong></a>.)
+</p>
+
+<p>If successful, the following code will open the user support directory for inspection:</p>
 
 <p>&nbsp;</p>
 
 <pre>
-Soundfile examples
 (
-// Place unzipped kernels in the directory opened
-// Presume Atk.userSupportDir has already been created
-
+// Open user support directory
 Atk.openUserSupportDir;
 )
 </pre>
 
-<p>If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded sound file here.</p>
+<p>&nbsp;</p>
 
 <p><strong>Note:</strong> Users are strongly advised to download and install these files.</p>
 
