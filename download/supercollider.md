@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download ATK for SuperCollider 3<br/><small>An extension library for the SuperCollider programming language</small>
+title: Download ATK for SuperCollider<br/><small>An extension library for the SuperCollider programming language</small>
 permalink: /download/supercollider/
 ---
 
