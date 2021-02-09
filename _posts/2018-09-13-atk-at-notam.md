@@ -7,13 +7,13 @@ categories: workshop
 ---
 
 
-<img src="http://www.notam02.no/web/wp-content/uploads/2017/01/siriusoriginalWeb.jpg" alt="alt text" title="Studio 3" class="img-responsive center-block" style="width: 100%; padding-top: 2em; padding-bottom: 1em" />
+<img src="https://notam.no/wp-content/uploads/2019/10/siriusoriginal-studio3Web.jpg" alt="alt text" title="Studio 3" class="img-responsive center-block" style="width: 100%; padding-top: 2em; padding-bottom: 1em" />
 
 ---
 
 ## ATK@Notam
 
-#### Workshops for advanced users part 5: [Ambisonics & the Ambisonic Toolkit, theory and artistic practice](http://notam02.no/web/workshops-for-advanced-users-part-5-ambisonics-with-joseph-anderson-2/?lang=en) ####
+#### Workshops for advanced users part 5: [Ambisonics & the Ambisonic Toolkit, theory and artistic practice](https://notam.no/workshops-for-advanced-users-part-5-ambisonics-with-joseph-anderson-2/?lang=en) ####
 
 __Date:__ 1 - 5 October 2018
 
@@ -44,7 +44,7 @@ will be leading five days of advanced exploration into the world of Ambisonics a
   * Soundfield decoding, ‘in practice’
 
 
-Further details and information regarding registration can be found on the [Notam workshop page](http://notam02.no/web/workshops-for-advanced-users-part-5-ambisonics-with-joseph-anderson-2/?lang=en).
+Further details and information regarding registration can be found on the [Notam workshop page](https://notam.no/workshops-for-advanced-users-part-5-ambisonics-with-joseph-anderson-2/?lang=en).
 
 ---
 ### Composing with Soundfields, ‘think Ambisonic’ ###
