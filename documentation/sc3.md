@@ -9,5 +9,5 @@ permalink: /documentation/supercollider/
 &nbsp;
 
 <div class="embed-responsive embed-responsive-4by3 embed-sc3-documentation">
-    <iframe class="embed-responsive-item" src="http://depts.washington.edu/dxscdoc/Help/Guides/Intro-to-the-ATK.html">http://depts.washington.edu/dxscdoc/Help/Guides/Intro-to-the-ATK.html</iframe>
+    <iframe class="embed-responsive-item" src="http://depts.washington.edu/dxscdoc/Help/Tutorials/ABCs-of-the-ATK.html">http://depts.washington.edu/dxscdoc/Help/Tutorials/ABCs-of-the-ATK.html</iframe>
 </div>
