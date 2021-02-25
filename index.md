@@ -15,7 +15,7 @@ title: The Ambisonic Toolkit <br/><small>Tools for soundfield-kernel composition
     <div class="well">
       <h2 class="text-center">ATK for Reaper</h2>
       <p class="text-center">
-        A set of JSFX plugins for spatial composition, sound design and virtual reality content development in the <a href="http://reaper.fm">Reaper</a> Digital Audio Workstation (DAW).
+        A set of JSFX plugins for spatial composition, sound design and virtual reality content development in the <a href="https://reaper.fm">Reaper</a> Digital Audio Workstation (DAW).
       </p>
       <p class="text-center">Reaper and these plugins can be used with Mac, Windows and Linux (using Wine).
       </p>
@@ -32,7 +32,7 @@ title: The Ambisonic Toolkit <br/><small>Tools for soundfield-kernel composition
     <div class="well">
       <h2 class="text-center">ATK for SuperCollider</h2>
       <p class="text-center">
-        Powerful ambisonic processing in <a href="http://supercollider.github.io/" target="_blank">SuperCollider</a>, a programming language for real time audio synthesis and algorithmic composition.
+        Powerful ambisonic processing in <a href="https://supercollider.github.io/" target="_blank">SuperCollider</a>, a programming language for real time audio synthesis and algorithmic composition.
       </p>
       <p class="text-center">
         ATK can be used with SuperCollider on the Mac, Windows and Linux platforms.

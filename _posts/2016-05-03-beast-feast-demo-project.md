@@ -17,10 +17,10 @@ As promised, the Reaper project used during the presentation can now be [downloa
 
 This Reaper project is a demo of the Ambisonic Toolkit plugins, with each track demoing different aspects of the toolkit. It uses the [standard sound files that we provide for ATK demo purposes](http://www.ambisonictoolkit.net/download/recordings/). Additionally the example project makes use of some other 3rd party plugins:
 
-* [Matthias Kronlachner MCFS plugins](http://www.matthiaskronlachner.com/?p=1910)
+* [Matthias Kronlachner MCFS plugins](https://www.matthiaskronlachner.com/?p=1910)
 * [Michal Norris AudioUnit plugins (Mac only)](http://www.michaelnorris.info/software/soundmagic-spectral)
 * [Blue Ripple Harpex TOA Upcoder and Rapture 3D Advanced](http://www.blueripplesound.com/product-listings/pro-audio)
-* [Harpex plugin](http://harpex.net/)
+* [Harpex plugin](https://harpex.net/)
 
 Here is some information on the various tracks in the project:
 

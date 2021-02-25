@@ -26,7 +26,7 @@ permalink: /download/matrices/
 
 <h2>Using Matrices with SuperCollider</h2>
 
-<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="http://supercollider.github.io" target="_blank">SuperCollider</a> are
+<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="https://supercollider.github.io" target="_blank">SuperCollider</a> are
 <a href="https://github.com/ambisonictoolkit/atk-sc3#kernels-matrices--soundfiles" target="_blank"><strong>found here</strong></a>.)
 </p>
 

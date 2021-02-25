@@ -4,7 +4,7 @@ title: ATK for Reaper
 permalink: /documentation/reaper/
 ---
 
-<p class="lead">ATK for Reaper is a set of plugins for the <a href="http://reaper.fm">Reaper DAW</a>. Using the <abbr title="ReaJS plugin is part of the ReaPlugs VST FX Suite.">ReaJS plugin</abbr> ATK for Reaper can also be used with other DAWs on Windows that support VST plugins.</p>
+<p class="lead">ATK for Reaper is a set of plugins for the <a href="https://reaper.fm">Reaper DAW</a>. Using the <abbr title="ReaJS plugin is part of the ReaPlugs VST FX Suite.">ReaJS plugin</abbr> ATK for Reaper can also be used with other DAWs on Windows that support VST plugins.</p>
 
 <p class="text-center">
   <img src="/assets/images/documentation/reaper/plugins.png" alt="alt text" title="ImagingTransform Plugins" class="img-responsive center-block" />
@@ -12,7 +12,7 @@ permalink: /documentation/reaper/
 
 &nbsp;
 
-The plugins are developed in the [JS FX](http://reaper.fm/sdk/js/js.php) scripting language, and work with all platforms and processors supported by Reaper. Several of the plugins, most noticeably the Transforms, are provided with graphical user interfaces that help visualise the effect of the transform.
+The plugins are developed in the [JS FX](https://reaper.fm/sdk/js/js.php) scripting language, and work with all platforms and processors supported by Reaper. Several of the plugins, most noticeably the Transforms, are provided with graphical user interfaces that help visualise the effect of the transform.
 
 
 ## Overview of plugins

@@ -13,7 +13,7 @@ permalink: /download/supercollider/
 &nbsp;
 
 
-<p>Complete instructions for installing the ATK for <a href="http://supercollider.github.io" target="_blank">SuperCollider</a> can be
+<p>Complete instructions for installing the ATK for <a href="https://supercollider.github.io" target="_blank">SuperCollider</a> can be
 <a href="https://github.com/ambisonictoolkit/atk-sc3/blob/master/README.md#installing" target="_blank"><strong>found here</strong></a>.
 </p>
 
@@ -29,6 +29,6 @@ permalink: /download/supercollider/
 
 ### License
 
-<a rel="license" href="http://www.gnu.org/copyleft/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br />The Ambisonic Toolkit for SuperCollider is free software, and is published under the [GPLv3](http://www.gnu.org/copyleft/gpl.html) free software license.
+<a rel="license" href="https://www.gnu.org/copyleft/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="https://www.gnu.org/graphics/gplv3-88x31.png" /></a><br />The Ambisonic Toolkit for SuperCollider is free software, and is published under the [GPLv3](https://www.gnu.org/copyleft/gpl.html) free software license.
 
 The development of ATK for SuperCollider is supported by <a href="https://dxarts.washington.edu/" target="_blannk">DXARTS &ndash; Center for Digital Arts and Experimental Media</a>.

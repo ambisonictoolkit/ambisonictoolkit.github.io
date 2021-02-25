@@ -8,7 +8,7 @@ categories: workshop
 
 <img src="/assets/images/2016-05-19-scrime-workshop/field-recording.jpg" alt="alt text" title="ATK Reaper demo project" class="img-responsive center-block" style="width: 100%; padding-top: 2em; padding-bottom: 1em" />
 
-As part of a short term residency at [SCRIME](http://scrime.labri.fr/) in Bordeaux, Trond Lossius participates in a three day workshop on ambisonics and field recording. The workshop will be used to test out new ambisonic recording gear at SCRIME, including field recordings and listening sessions, and offers an introduction to how to work with ambisonics in Reaper using the Ambisonic Toolkit.
+As part of a short term residency at [SCRIME](https://scrime.labri.fr/) in Bordeaux, Trond Lossius participates in a three day workshop on ambisonics and field recording. The workshop will be used to test out new ambisonic recording gear at SCRIME, including field recordings and listening sessions, and offers an introduction to how to work with ambisonics in Reaper using the Ambisonic Toolkit.
 
 <!--more-->
 

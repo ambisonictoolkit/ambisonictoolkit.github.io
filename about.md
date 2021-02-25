@@ -29,7 +29,7 @@ provided by:
   </div>
   <div class="col-sm-6">
     <div class="well">
-      <a href="http://bek.no/">
+      <a href="https://bek.no/">
         <img src="/assets/images/logos/BEK/logoweb6.png" alt="DXARTS" title="DXARTS" class="img-responsive center-block" style="max-width: 100%; height: auto; padding-top: 1em; padding-bottom: 1em"/>
       </a>
       <p>&nbsp;</p>

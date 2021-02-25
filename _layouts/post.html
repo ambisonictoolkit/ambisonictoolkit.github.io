@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
 
   <header class="post-header">
     <div class="container">
@@ -12,7 +12,7 @@ layout: default
             <small>
               Posted <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
               {% if page.author %}
-                by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+                by <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
               {% endif %}
             </small>
           </h1>

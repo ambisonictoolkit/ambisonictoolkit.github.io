@@ -12,7 +12,7 @@ permalink: /news/
   <small>
     Posted <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
     {% if post.author %}
-      by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+      by <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
     {% endif %}
   </small>
 </h2>

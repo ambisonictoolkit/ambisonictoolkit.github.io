@@ -19,7 +19,7 @@ ATK for Reaper v. 1.0.b10 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="http://bit.ly/2cHGyUn" class="btn btn-success">Download for OSX</a>
+            <a href="https://bit.ly/2cHGyUn" class="btn btn-success">Download for OSX</a>
           </p>
           <p>&nbsp;</p>
           <p>The OSX version is provided as an installer.</p>
@@ -40,7 +40,7 @@ ATK for Reaper v. 1.0.b10 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="http://bit.ly/2c4oQJi" class="btn btn-success">Download for Windows</a>
+            <a href="https://bit.ly/2c4oQJi" class="btn btn-success">Download for Windows</a>
           </p>
           <p>&nbsp;</p>
           <p>The Windows version is a zipped archive.</p>
@@ -66,14 +66,14 @@ ATK for Reaper v. 1.0.b10 requires Reaper 5.0 or newer.
 #### Previous versions
 
 * ATK for Reaper version 1.0. beta 9 <small>(Released 2016-07-24)</small>
-    * [Installer for OSX](http://bit.ly/2al6AhW)
-    * [Installer for Windows](http://bit.ly/2al72wq)
+    * [Installer for OSX](https://bit.ly/2al6AhW)
+    * [Installer for Windows](https://bit.ly/2al72wq)
 * ATK for Reaper version 1.0. beta 7 <small>(Released 2016-05-23)</small>
-    * [Installer for OSX](http://bit.ly/1U8AxQq)
-    * [Installer for Windows](http://bit.ly/1TR79eL)
+    * [Installer for OSX](https://bit.ly/1U8AxQq)
+    * [Installer for Windows](https://bit.ly/1TR79eL)
 * ATK for Reaper version 1.0. beta 6 <small>(Released 2015-11-04)</small>
-    * [Installer for OSX](http://bit.ly/1N371vf)
-    * [Installer for Windows](http://bit.ly/1N372zt)
+    * [Installer for OSX](https://bit.ly/1N371vf)
+    * [Installer for Windows](https://bit.ly/1N372zt)
 
 &nbsp;
 
@@ -83,6 +83,6 @@ ATK for Reaper v. 1.0.b10 requires Reaper 5.0 or newer.
 
 ### License
 
-<a rel="license" href="http://www.gnu.org/copyleft/lgpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/lgplv3-88x31.png" /></a><br />The Ambisonic Toolkit for Reaper is free software, and is published under the [LGPLv3](http://www.gnu.org/copyleft/lgpl.html) free software license.
+<a rel="license" href="https://www.gnu.org/copyleft/lgpl.html"><img alt="GNU General Public License" style="border-width:0" src="https://www.gnu.org/graphics/lgplv3-88x31.png" /></a><br />The Ambisonic Toolkit for Reaper is free software, and is published under the [LGPLv3](https://www.gnu.org/copyleft/lgpl.html) free software license.
 
-The development of ATK for Reaper is supported by <a href="http://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.
+The development of ATK for Reaper is supported by <a href="https://www.bek.no" target="_blannk">BEK &ndash; Bergen Center for Electronic Arts</a>.

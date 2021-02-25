@@ -22,7 +22,7 @@ __Location:__ Notam studios, Oslo, Norway
 ---
 ### Five days of Ambisonics ###
 
-At the invitation of [Notam](http://www.notam02.no/web/?lang=en), [Trond Lossius](http://www.trondlossius.no/pages/bio) and [Joseph Anderson](https://joseph-anderson.org/) (det er meg)
+At the invitation of [Notam](https://www.notam.no), [Trond Lossius](https://www.trondlossius.no/pages/bio) and [Joseph Anderson](https://joseph-anderson.org/) (det er meg)
 will be leading five days of advanced exploration into the world of Ambisonics and the Ambisonic Toolkit. Day by day, we'll review the following topic areas:
 
 1. Monday: ___Introduction___
@@ -60,6 +60,6 @@ Now that's _spatial composition_!
 ---
 #### About Notam? ####
 
-[Notam](http://www.notam02.no/web/informasjon/?lang=en) is a center for the development and innovative use of technology in music and the arts. The center is a resource for anyone who works with technology as an artistic tool, and is focused on sharing of knowledge and expertise.
+[Notam](https://www.notam.no/) is a center for the development and innovative use of technology in music and the arts. The center is a resource for anyone who works with technology as an artistic tool, and is focused on sharing of knowledge and expertise.
 
-[Notam](http://www.notam02.no/web/informasjon/?lang=en) is mainly operated with public funds, primarily through operating grants from [Arts Council Norway](https://www.kulturradet.no/english). In addition, [The Norwegian composer’s fund](https://www.musikkfondene.no/fondene/det-norske-komponistfond/) gives an annual organizational support.
+[Notam](https://www.notam.no/) is mainly operated with public funds, primarily through operating grants from [Arts Council Norway](https://www.kulturradet.no/english). In addition, [The Norwegian composer’s fund](https://www.musikkfondene.no/fondene/det-norske-komponistfond/) gives an annual organizational support.
