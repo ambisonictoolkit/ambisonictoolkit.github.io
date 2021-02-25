@@ -24,7 +24,7 @@ email: info@ambisonictoolkit.net
 description: > # this means to ignore newlines until "baseurl:"
   A toolset for authoring, transforming and decoding spatial sound fields.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ambisonictoolkit.net" # the base hostname & protocol for your site
+url: "https://www.ambisonictoolkit.net" # the base hostname & protocol for your site
 twitter_username: ambisonictoolkit
 github_username:  ambisonictoolkit
 

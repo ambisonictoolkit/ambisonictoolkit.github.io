@@ -26,7 +26,7 @@ permalink: /download/kernels/
 
 <h2>Using Kernels with SuperCollider</h2>
 
-<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="http://supercollider.github.io" target="_blank">SuperCollider</a> are
+<p>Install <a href="/download/supercollider/">ATK for SuperCollider</a>. (The instructions for installing Kernels, Matrices & Soundfiles for <a href="https://supercollider.github.io" target="_blank">SuperCollider</a> are
 <a href="https://github.com/ambisonictoolkit/atk-sc3#kernels-matrices--soundfiles" target="_blank"><strong>found here</strong></a>.)
 </p>
 
@@ -51,4 +51,4 @@ Atk.openUserSupportDir;
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />The Ambisonic Toolkit Kernels package is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
-Copyright the [Ambisonic Toolkit](http://ambisonictoolkit.net) Community and Joseph Anderson, 2011-2021.
+Copyright the [Ambisonic Toolkit](https://ambisonictoolkit.net) Community and Joseph Anderson, 2011-2021.

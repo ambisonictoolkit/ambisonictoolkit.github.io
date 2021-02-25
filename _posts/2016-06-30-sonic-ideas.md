@@ -11,7 +11,7 @@ alt="alt text" title="Sonic Ideas/Ideas Sónicas Año 8 No. 16"
 class="img-responsive center-block" style="width: 25%; max-width: 600px;
 padding-top: 2em; padding-bottom: 1em" />
 
-This was the question posed to the [ATK](http://www.ambisonictoolkit.net/) team
+This was the question posed to the [ATK](https://www.ambisonictoolkit.net/) team
 by
 [Prof. Oscar Pablo Di Liscia](http://musica.unq.edu.ar/profesores_ver.php?i=76),
 editor of the latest issue of
@@ -57,7 +57,7 @@ industry sound production.
 #### Subtle but significant ####
 
 That's the _big_ difference in working with the
-[Ambisonic Toolkit](http://www.ambisonictoolkit.net/) over other spatial sound
+[Ambisonic Toolkit](https://www.ambisonictoolkit.net/) over other spatial sound
 toolsets. The model isn't placing _sounds in space_, but instead, shaping the
 _sound of space_. Yeah, that's something of a head shift. (I think of it like
 being some sort of _god of space_, looking in, shaping space as if it were a

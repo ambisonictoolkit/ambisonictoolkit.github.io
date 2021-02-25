@@ -80,7 +80,7 @@ Comparative Surround Recording, 2007. [Online]. Available:
 [Accessed: 26-Jul-2011].
 
 P. Hodges, "Purcell - Passacaglia (King Arthur)," Ambisonic.info. [Online]. Available:
-[http://ambisonic-files.s3.amazonaws.com/AMB/pwh-Purcell-Passacaglia(HowHappy).amb](http://ambisonic-files.s3.amazonaws.com/AMB/pwh-Purcell-Passacaglia(HowHappy).amb) [Accessed: 27-Jul-2017].
+[https://ambisonic-files.s3.amazonaws.com/AMB/pwh-Purcell-Passacaglia(HowHappy).amb](https://ambisonic-files.s3.amazonaws.com/AMB/pwh-Purcell-Passacaglia(HowHappy).amb) [Accessed: 27-Jul-2017].
 
 Tim Howle, "Calling Tunes," 20 Odd Years, FMR FMRCD316-0711
 
