@@ -11,7 +11,7 @@ categories: zoom
 
 Thanks for the positive feedback to the presentation of ATK for Reaper at [BEAST: FEaST 2016](http://www.beast.bham.ac.uk/beast-feast-2016/) last weekend. lso, a general thanks to Scott and everyone else that helped organise the festival!
 
-As promised, the Reaper project used during the presentation can now be [downloaded here](https://db.tt/g1D81Kxg).
+As promised, the Reaper project used during the presentation can now be [downloaded here](http://bit.ly/2P3o4oQ).
 
 <!--more-->
 
