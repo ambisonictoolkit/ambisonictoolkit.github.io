@@ -17,7 +17,7 @@ permalink: /documentation/supercollider/tutorials/
     <p class="lead">This podcast series offers a thorough introduction to Ambsionic Toolkit and the idiomatic ambisonic workflow that it has to offer.</p>
     <p class="text-center">
       <a href="https://itunes.apple.com/us/itunes-u/masterclass-ambisonic-toolkit/id878938041?mt=10" target="_blank">
-        <img src="/assets/images/documentation/supercollider/tutorials/Get_it_on_iTunes_Badge_US_1114.svg" alt="alt text" title="Masterclass - Ambisonic Toolkit" class="img-responsive center-block itunes-badge" />
+        <img src="/assets/images/documentation/supercollider/tutorials/US_UK_iTunes_Store_Get_Badge_RGB_012618.svg" alt="alt text" title="Masterclass - Ambisonic Toolkit" class="img-responsive center-block itunes-badge" />
       </a>
     </p>
     <p class="text-center"><a href="https://itunes.apple.com/us/itunes-u/masterclass-ambisonic-toolkit/id878938041?mt=10" target="_blank">Watch “Masterclass – The Ambisonic Toolkit” at iTunes</a></p>

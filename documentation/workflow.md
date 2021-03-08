@@ -8,7 +8,7 @@ permalink: /documentation/workflow/
 <p class="lead">ATK separates the task of production work with Ambisonics into three distinct elements.</p>
 
 <figure class="figure">
-  <img src="/assets/images/documentation/workflow/atk-network.svg" alt="alt text" title="The Ambisonic Toolkit workflow" class="img-responsive center-block" style="width: 100%; max-width: 712px; padding-top: 2em; padding-bottom: 1em" />
+  <img src="/assets/images/documentation/workflow/atk-network.png" alt="alt text" title="The Ambisonic Toolkit workflow" class="img-responsive center-block" style="width: 100%; max-width: 712px; padding-top: 2em; padding-bottom: 1em" />
   <figcaption class="figure-caption text-center">The Ambisonic Toolkit paradigmatic workflow.</figcaption>
 </figure>
 
