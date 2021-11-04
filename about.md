@@ -23,18 +23,20 @@ provided by:
       </a>
       <p>&nbsp;</p>
       <h4 class="text-center">
-        Center for Digital Arts and Experimental Media
+        Center for Digital Arts and Experimental Media<br/>
+        University of Washington
       </h4>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="well">
-      <a href="https://bek.no/">
-        <img src="/assets/images/logos/BEK/logoweb6.png" alt="DXARTS" title="DXARTS" class="img-responsive center-block" style="max-width: 100%; height: auto; padding-top: 1em; padding-bottom: 1em"/>
+      <a href="https://www.filmskolen.no/en//">
+        <img src="/assets/images/logos/DNF/dnf.png" alt="The Norwegian Film School" title="The Norwegian Film School" class="img-responsive center-block" style="max-width: 100%; height: auto; padding-top: 1em; padding-bottom: 1em"/>
       </a>
       <p>&nbsp;</p>
       <h4 class="text-center">
-        Bergen Center for Electronic Arts
+        The Norwegian Film School<br/>
+        Inland Norway University of Applied Sciences
       </h4>
     </div>
   </div>
