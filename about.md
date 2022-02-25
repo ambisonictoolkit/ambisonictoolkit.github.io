@@ -23,7 +23,7 @@ provided by:
       </a>
       <p>&nbsp;</p>
       <h4 class="text-center">
-        Digital Arts and Experimental Media Department<br/>
+        Department of Digital Arts and Experimental Media<br/>
         University of Washington
       </h4>
     </div>
