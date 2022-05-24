@@ -19,7 +19,7 @@ ATK for Reaper v. 1.0.b11 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="https://bit.ly/3BVVJDX" class="btn btn-success">Download for macOS</a>
+            <a href="https://www.dropbox.com/s/h68lrksnr5eaukh/ATK_for_Reaper_Mac_1.0.b11.dmg?dl=0" class="btn btn-success">Download for macOS</a>
           </p>
           <p>&nbsp;</p>
           <p>The macOS version is provided as an installer.</p>
@@ -40,7 +40,7 @@ ATK for Reaper v. 1.0.b11 requires Reaper 5.0 or newer.
         <div class="panel-body">
           <p>&nbsp;</p>
           <p class="text-center">
-            <a href="https://bit.ly/3BM2qrM" class="btn btn-success">Download for Windows</a>
+            <a href="https://www.dropbox.com/s/85oimjlepz6kym4/ATK_for_Reaper_Win_1.0.b11.zip?dl=0" class="btn btn-success">Download for Windows</a>
           </p>
           <p>&nbsp;</p>
           <p>The Windows version is a zipped archive. This installer can also be used with Linux and as a manual installer for macOS.</p>
