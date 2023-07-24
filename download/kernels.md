@@ -51,4 +51,4 @@ Atk.openUserSupportDir;
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />The Ambisonic Toolkit Kernels package is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
-Copyright the [Ambisonic Toolkit](https://ambisonictoolkit.net) Community and Joseph Anderson, 2011-2021.
+Copyright the [Ambisonic Toolkit](https://ambisonictoolkit.net) Community and Joseph Anderson, 2011-2023.
