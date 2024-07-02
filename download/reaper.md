@@ -14,7 +14,7 @@ ATK for Reaper v. 1.0.b11 requires Reaper 5.0 or newer.
 
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h1 class="panel-title text-center">macOS Insatller</h1>
+            <h1 class="panel-title text-center">macOS Installer</h1>
         </div>
         <div class="panel-body">
           <p>&nbsp;</p>
